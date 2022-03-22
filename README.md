@@ -1,6 +1,6 @@
 # ng-elif
 
-A simple collection of control flow directives: `ng-if`, `ng-else-if`, and `ng-else`.
+Uma coleção simples de diretivas de fluxo de controle: `ng-if`, `ng-else-if`, and `ng-else`.
 
 All directives support animations via `$animate`. `ng-if` can be used on the same element as `ng-repeat`,
 just like the "real" `ng-if` that it overrides. The primary caveat is that a given if/else-if/else construct
